@@ -1,2 +1,2 @@
 # basiclanding
-Basic landing page with Mailchimp integration
+Basic landing page with Mail Chimp integration
